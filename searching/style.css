@@ -1,0 +1,13 @@
+* {
+    color-scheme: dark;
+    font: 20px 'Source Sans Pro', Regular;
+}
+h1 {
+    font: 32px Regular;
+}
+h2 {
+    font: 36px Regular;
+}
+#elements {
+    font: 24px Regular;
+}
